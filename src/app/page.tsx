@@ -13,10 +13,10 @@ export default function LoginPage() {
         
         <div className="flex justify-center mb-4">
           <Image
-            src={logo} // Use the imported image
+            src={logo} 
             alt="Company Logo"
-            width={180} // Adjust as needed
-            height={80} // Adjust as needed
+            width={180}
+            height={80} 
             className="object-contain"
             priority
           />
